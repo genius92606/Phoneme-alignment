@@ -1,0 +1,297 @@
+﻿  bend.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  biquad.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  biquads.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  chorus.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  compand.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  compandt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  contrast.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  dcshift.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  delay.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  dft_filter.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  dither.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  divide.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  downsample.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  earwax.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  echo.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  echos.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  fade.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  fir.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  firfit.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  flanger.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  Compiling...
+  gain.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  hilbert.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  input.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  ladspa.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  loudness.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  mcompand.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  noiseprof.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  noisered.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  output.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  overdrive.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  pad.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  phaser.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  rate.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  remix.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  repeat.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  reverb.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  reverse.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  silence.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  sinc.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  spectrogram.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\spectrogram.c(29): fatal error C1083: Cannot open include file: 'png.h': No such file or directory
+  Compiling...
+  speed.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  speexdsp.c
+c1 : fatal error C1083: Cannot open source file: '..\src\speexdsp.c': No such file or directory
+  splice.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\splice.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  stat.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  stats.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  stretch.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  swap.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  synth.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  tempo.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\tempo.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  tremolo.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  trim.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  upsample.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  vad.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  vol.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  8svx.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  aifc-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  aiff-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  al-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  amr-nb.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  amr-wb.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  Compiling...
+  au.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  avr.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  caf.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  cdr.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  cvsd-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  dat.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  dvms-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  f4-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  f8-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  fap.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  flac.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\flac.c(25): fatal error C1083: Cannot open include file: 'FLAC/all.h': No such file or directory
+  gsm.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  gsrt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  hcom.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  htk.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  ima-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  ima_rw.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  la-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  lpc10.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  lu-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  Compiling...
+  mat4.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  mat5.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  maud.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\maud.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  mp3.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\mp3.c(27): fatal error C1083: Cannot open include file: 'mad.h': No such file or directory
+  nulfile.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  paf.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  prc.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  pvf.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  raw-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  s1-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  s2-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  s3-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  s4-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  sd2.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  sf.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  smp.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  sndfile.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\msvc10\sndfile\sndfile.h(19): fatal error C1083: Cannot open include file: '../../libsndfile/src/sndfile.h.in': No such file or directory
+  sounder.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  soundtool.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  sox-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  Compiling...
+  sphere.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  tx16w.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  u1-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  u2-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  u3-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  u4-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  ul-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  voc.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  vorbis.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\vorbis.c(25): fatal error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  vox-fmt.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  vox.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  w64.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  wav.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\wav.c(1152): warning C4267: '-=': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\wav.c(1413): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\wav.c(1426): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+  waveaudio.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  wve.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  xa.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  xi.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  adpcm.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  adpcms.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  aiff.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  Compiling...
+  cvsd.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  effects.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  effects_i.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  effects_i_dsp.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\effects_i_dsp.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  fft4g.c
+  formats.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\formats.c(420): error C2039: '_ptr': is not a member of '_iobuf'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(25): note: see declaration of '_iobuf'
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\formats.c(420): error C2039: '_base': is not a member of '_iobuf'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(25): note: see declaration of '_iobuf'
+  formats_i.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  g711.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  g721.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  g723_24.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  g723_40.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  g72x.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  getopt.c
+  libsox.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  libsox_i.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  raw.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  util.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  win32-ltdl.c
+  xmalloc.c
+c:\users\dreamfall\desktop\python3_version\sox-14.4.2\src\sox_i.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
